@@ -1,7 +1,7 @@
 # Cálculo de dígito verificador no módulo 10 padrão febraban (Federação Brasileira de Bancos)
 
 ```sh
-Cálculo - Dígito Verificador - Módulo 10
+Plataforma de Desenvolvimento - GoLang
 ```
 <div align="left">
     <img src="https://img.shields.io/badge/-GoLang-skyblue?style=for-the-badge" alt="Go Lang">
